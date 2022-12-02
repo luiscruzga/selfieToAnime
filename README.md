@@ -1,4 +1,4 @@
-# selfieToAnime!
+# selfietoanime!
 
 Transform your images applying an anime / manga style using AI.
 
@@ -6,7 +6,7 @@ It is based on the [Photo2Cartoon](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 
 ## Installation
 
-    npm i --save selfieToAnime
+    npm i --save selfietoanime
 
 
 ## Example
@@ -15,7 +15,7 @@ It is based on the [Photo2Cartoon](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 Transform an image from an external url
 
 ```js
-const anime = require('selfieToAnime');
+const anime = require('selfietoanime');
 
 anime.transform({
     photo: 'https://media.gq.com.mx/photos/5e220ec2ffa8c7000803441e/16:9/w_1920,c_limit/40-datos-curiosos-para-descubrir-a-scarlett-johansson.jpg',
@@ -34,7 +34,7 @@ anime.transform({
 Transform a local image and get image in base64
 
 ```js
-const anime = require('selfieToAnime');
+const anime = require('selfietoanime');
 const path = require('path');
 
 anime.transform({

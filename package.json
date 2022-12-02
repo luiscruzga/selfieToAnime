@@ -1,5 +1,5 @@
 {
-  "name": "selfieToAnime",
+  "name": "selfietoanime",
   "version": "1.0.0",
   "description": "Transform your selfie into an anime image",
   "main": "./src/index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luiscruzga/selfie2anime.git"
+    "url": "git+https://github.com/luiscruzga/selfieToAnime.git"
   },
   "keywords": [
-    "selfie2anime",
+    "selfieToAnime",
     "selfie to anime",
     "anime",
     "photo",
@@ -21,9 +21,9 @@
   "author": "Luis Cruz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luiscruzga/selfie2anime/issues"
+    "url": "https://github.com/luiscruzga/selfieToAnime/issues"
   },
-  "homepage": "https://github.com/luiscruzga/selfie2anime#readme",
+  "homepage": "https://github.com/luiscruzga/selfieToAnime#readme",
   "dependencies": {
     "axios": "^1.2.0",
     "fs": "0.0.1-security",
